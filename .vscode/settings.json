@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "collector.h": "c",
+        "worker.h": "c"
+    }
+}
